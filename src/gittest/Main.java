@@ -18,6 +18,8 @@ public class Main {
         //cos sobie tutaj dodalem
         //tutaj zrobilem zmiane w halezi funckaj
         //dopisalem sobie funckje jakas
+        
+        //praca nad jkas funkcja
     }
     
 }
