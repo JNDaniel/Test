@@ -24,6 +24,8 @@ public class Main {
         
         //praca nad czyms kolejnym
         //powiedzmy zaszlo duzo zmian wartosciowych dla galezi funkcje
+        
+        //zrobilem swoje i naprawilem wszystko
     }
     
 }
