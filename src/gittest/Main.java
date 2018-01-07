@@ -20,6 +20,8 @@ public class Main {
         //dopisalem sobie funckje jakas
         
         //jednoczesnie sie tutaj tez cos zmienio
+        
+        //natomiast tutaj ktos bardzo pracowal nad rozbudowaniem mniej wznej funkcji ale tam w master sa wazne rzeczy wazne dla niego
     }
     
    
