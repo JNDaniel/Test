@@ -20,6 +20,7 @@ public class Main {
         //dopisalem sobie funckje jakas
         
         //praca nad jkas funkcja
+        //jednoczesnie sie tutaj tez cos zmienio
     }
     
 }
