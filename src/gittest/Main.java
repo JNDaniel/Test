@@ -24,7 +24,12 @@ public class Main {
         
         //praca nad czyms kolejnym
         //powiedzmy zaszlo duzo zmian wartosciowych dla galezi funkcje
+
         //natomiast tutaj ktos bardzo pracowal nad rozbudowaniem mniej wznej funkcji ale tam w master sa wazne rzeczy wazne dla niego
+
+        
+        
+
     }
     
 }
