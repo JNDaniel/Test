@@ -33,6 +33,8 @@ public class Main {
         
         
     //rowniez sporo pozmienialem ale jestem dopiero w trakcje zmian a musze szybko gdzies indziej przejsc
+    
+    //jeszcze mniejsze poprawki
 
 
         
