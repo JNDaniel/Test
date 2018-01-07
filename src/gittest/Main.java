@@ -21,6 +21,9 @@ public class Main {
         
         //praca nad jkas funkcja
         //jednoczesnie sie tutaj tez cos zmienio
+        
+        //praca nad czyms kolejnym
+        //powiedzmy zaszlo duzo zmian wartosciowych dla galezi funkcje
     }
     
 }
