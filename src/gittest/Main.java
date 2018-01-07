@@ -26,6 +26,7 @@ public class Main {
         //powiedzmy zaszlo duzo zmian wartosciowych dla galezi funkcje
         
         //zrobilem swoje i naprawilem wszystko
+        //zrobilem kolejna naprawe
     }
     
 }
