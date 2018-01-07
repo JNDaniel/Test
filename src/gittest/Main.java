@@ -27,8 +27,9 @@ public class Main {
 
         //natomiast tutaj ktos bardzo pracowal nad rozbudowaniem mniej wznej funkcji ale tam w master sa wazne rzeczy wazne dla niego
 
+
         
-        
+       //rowniez sporo pozmienialem ale jestem dopiero w trakcje zmian a musze szybko gdzies indziej przejsc
 
     }
     
