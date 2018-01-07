@@ -16,6 +16,8 @@ public class Main {
      */
     public static void main(String[] args) {
         //cos sobie tutaj dodalem
+        //tutaj zrobilem zmiane w halezi funckaj
+        //dopisalem sobie funckje jakas
     }
     
 }
